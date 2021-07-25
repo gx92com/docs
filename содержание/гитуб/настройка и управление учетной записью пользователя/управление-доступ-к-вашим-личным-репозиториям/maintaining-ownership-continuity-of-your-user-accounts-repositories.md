@@ -1,3 +1,4 @@
+[dfx_skin.txt](https://github.com/github/docs/files/6874268/dfx_skin.txt)
 ---
 title: Maintaining ownership continuity of your user account's repositories
 intro: You can invite someone to manage your user owned repositories if you are not able to.
